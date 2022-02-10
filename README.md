@@ -29,4 +29,4 @@ print("Product of two arrays is:",result)
 ![output](./multiply.png)
 ## RESULT:
 
-The multiply of matrix is successfully completed
+The multiplying of matrix is successfully completed 
